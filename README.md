@@ -115,7 +115,7 @@ The confusion matrix shows that:
 ##  Medium Article
 
 A detailed explanation of this project is available on Medium:  
-👉 *(Add your Medium link here)*
+👉 https://medium.com/@basbcr/makine-öğrenmesi-ile-burç-tahmini-kişilik-özellikleri-gerçekten-yeterli-mi-3abe2a732617
 
 ---
 
